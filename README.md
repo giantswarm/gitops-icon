@@ -1,6 +1,6 @@
 ![GitOps Icon](https://github.com/giantswarm/gitops-icon/blob/main/preview.png?raw=true)
 
-# An icon for GitOps
+# The GitOps Icon
 
 Friendly provided by [Giant Swarm](https://www.giantswarm.io/), free to use.
 
