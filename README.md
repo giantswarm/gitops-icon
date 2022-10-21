@@ -19,3 +19,7 @@ The icon is likely to work better for users the more often they see and recogniz
 ## License
 
 [No restrictions](https://github.com/giantswarm/gitops-icon/blob/main/LICENSE), licensed as CC0.
+
+## Acknowledgement
+
+The GitOps icon "cites" an element known from the [Git logo](https://git-scm.com/downloads/logos), which was designed by [Jason Long](https://twitter.com/jasonlong).
