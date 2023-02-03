@@ -22,4 +22,4 @@ The icon is likely to work better for users the more often they see and recogniz
 
 ## Acknowledgement
 
-The GitOps icon "cites" an element known from the [Git logo](https://git-scm.com/downloads/logos), which was designed by [Jason Long](https://twitter.com/jasonlong).
+The GitOps icon "cites" an element known from the [Git logo](https://git-scm.com/downloads/logos), which was designed by [Jason Long](https://mastodon.design/@jasonlong).
